@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756980924004",
+    "project_id": "uasmovieapp",
+    "storage_bucket": "uasmovieapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756980924004:android:a52c336c146ff66c692971",
+        "android_client_info": {
+          "package_name": "com.kevin.uasmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756980924004-lrikl6ddda23hbv06in37n2cdob2uk4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevin.uasmovieapp",
+            "certificate_hash": "8532fdc3469b43e9df7ab5acd11780e2a7a9ab04"
+          }
+        },
+        {
+          "client_id": "756980924004-9tdulkrfqp0qfa1mrag1312tt20qhmf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVX4r8XIDd1onywp-irt4seSZ2V71wno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756980924004-9tdulkrfqp0qfa1mrag1312tt20qhmf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

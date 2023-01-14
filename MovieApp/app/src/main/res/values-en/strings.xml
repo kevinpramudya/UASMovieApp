@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UASMovieApp</string>
+    <string name="login_with_google">Login with Google</string>
+
+    <string name="email">Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="popular_movie">Popular Movies</string>
+    <string name="series_catalog">Series Catalog</string>
+    <string name="popular_series">Popular Series</string>
+    <string name="description">Description</string>
+</resources>

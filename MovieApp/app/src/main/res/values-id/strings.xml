@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UASMovieApp</string>
+    <string name="login_with_google">Masuk dengan Google</string>
+
+    <string name="email">Email</string>
+    <string name="sign_out">Keluar</string>
+    <string name="movie_catalog">Katalog Film</string>
+    <string name="popular_movie">Film Populer</string>
+    <string name="series_catalog">Katalog Series</string>
+    <string name="popular_series">Series Populer</string>
+    <string name="description">Deskripsi</string>
+</resources>

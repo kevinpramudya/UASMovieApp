@@ -2,6 +2,7 @@ package com.kevin.uasmovieapp
 
 import android.app.Activity
 import android.content.Intent
+import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -14,6 +15,7 @@ import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
 import com.kevin.uasmovieapp.databinding.ActivityAuthGoogleBinding
+import kotlinx.android.synthetic.main.activity_auth_google.*
 
 class AuthGoogleActivity : AppCompatActivity() {
     private lateinit var auth : FirebaseAuth
@@ -35,6 +37,14 @@ class AuthGoogleActivity : AppCompatActivity() {
         googleSignInClient = GoogleSignIn.getClient(this, gso)
         binding.btnLoginGoogle.setOnClickListener {
             loginWithGoogle()
+        }
+
+        //animation
+        val animationDrawable = constraintLayout.background as AnimationDrawable
+        animationDrawable.apply {
+            setEnterFadeDuration(1000)
+            setExitFadeDuration(2000)
+            start()
         }
     }
 

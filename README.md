@@ -5,6 +5,6 @@
 
 ## Project Documents:
 - Slides Presentation: (https://docs.google.com/presentation/d/1Rh3Nno_ffCeDSEV_qPqdyvbzZcUk3ftUXUJrt9rtn8U/edit?usp=sharing)
-- Video Presentation: (https://www.youtube.com/watch?v=t_Nxx5ouxYU)
-*Click image for playing the video or use this link <br />
+- Video Presentation: (https://www.youtube.com/watch?v=t_Nxx5ouxYU) <br />
+*Click image for playing this video  <br />
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t_Nxx5ouxYU/0.jpg)](https://www.youtube.com/watch?v=t_Nxx5ouxYU)

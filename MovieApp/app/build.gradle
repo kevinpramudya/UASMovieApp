@@ -2,6 +2,7 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
     id 'com.google.gms.google-services'
+    id 'kotlin-android-extensions'
 }
 
 android {
@@ -48,4 +49,17 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    //RecyclerView Lib
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+
+    //CardView Lib
+    implementation 'androidx.cardview:cardview:1.0.0'
+
+    //Glide Lib
+    implementation 'com.github.bumptech.glide:glide:4.14.2'
+
+    //Retrofit Lib
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 }
